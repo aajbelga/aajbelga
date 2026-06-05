@@ -66,11 +66,11 @@ Goal:
 # 📊 GITHUB ANALYTICS
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aajbelga&show_icons=true&theme=github_dark" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aajbelga&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aajbelga&theme=tokyonight&hide_border=true" />
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aajbelga&theme=github-dark-blue" />
 </p>
 
 ---
