@@ -81,7 +81,7 @@ Building:
 Learning:
   - System Design
   - Deep Learning
-  - Cloud Technologies
+  - Data Science 
 ```
 
 ---
